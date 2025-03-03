@@ -1,0 +1,21 @@
+2025-03-03T20:29:02.586Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project PlatformSecurityProject
+2025-03-03T20:29:02.598Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state ENABLED
+2025-03-03T20:29:02.652Z [y.aiintellij.ui.panels.AIToolWindowLogPanel.<init>] INFO initializing a logs panel
+2025-03-03T20:29:02.681Z [nfrastructureApiService.createInfrastructureFacade] INFO isInfrastructureDebug: false
+2025-03-03T20:29:02.682Z [nfrastructureApiService.createInfrastructureFacade] INFO Use port: 52474
+2025-03-03T20:29:02.682Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO reloading additional log panels
+2025-03-03T20:29:02.684Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO not in developer mode, skipping
+2025-03-03T20:29:02.709Z [.services.HeavyInfrastructureApiService.initialize] INFO Plugin context initialized
+2025-03-03T20:29:02.710Z [itializeManager$initializeAnalyzer$1.invokeSuspend] INFO initializing infrastructure
+2025-03-03T20:29:02.939Z [y.aiintellij.ui.panels.AIToolWindowLogPanel.<init>] INFO initializing a logs panel
+2025-03-03T20:29:02.943Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO reloading additional log panels
+2025-03-03T20:29:02.944Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO not in developer mode, skipping
+2025-03-03T20:29:03.109Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
+2025-03-03T20:29:05.930Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
+2025-03-03T20:29:06.533Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was started
+2025-03-03T20:29:06.549Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was finished
+2025-03-03T20:29:09.815Z [sistantNotificationService.onAssistantNotification] INFO TipsAvailabilityChanged notification is received by assistant
+2025-03-03T20:29:09.821Z [sistantNotificationService.onAssistantNotification] INFO QuickFixTipsUpdated notification is received by assistant
+2025-03-03T20:29:09.821Z [ices.aie.AieInitializer$initialize$1.invokeSuspend] INFO AIE integration isn't initialized, skipping listeners initialization
+2025-03-03T20:29:09.950Z [sistantNotificationService.onAssistantNotification] INFO TipsAvailabilityChanged notification is received by assistant
+2025-03-03T20:29:09.968Z [sistantNotificationService.onAssistantNotification] INFO QuickFixTipsUpdated notification is received by assistant

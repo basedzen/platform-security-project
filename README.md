@@ -178,6 +178,9 @@ Access the application via the assigned NodePort or Minikube IP.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or further information, please contact:

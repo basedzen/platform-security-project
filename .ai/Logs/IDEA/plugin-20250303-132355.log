@@ -1,0 +1,21 @@
+2025-03-03T13:23:55.766Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project PlatformSecurityProject
+2025-03-03T13:23:55.913Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state ENABLED
+2025-03-03T13:23:56.254Z [nfrastructureApiService.createInfrastructureFacade] INFO isInfrastructureDebug: false
+2025-03-03T13:23:56.263Z [nfrastructureApiService.createInfrastructureFacade] INFO Use port: 50371
+2025-03-03T13:23:56.406Z [.services.HeavyInfrastructureApiService.initialize] INFO Plugin context initialized
+2025-03-03T13:23:56.448Z [itializeManager$initializeAnalyzer$1.invokeSuspend] INFO initializing infrastructure
+2025-03-03T13:24:01.302Z [y.aiintellij.ui.panels.AIToolWindowLogPanel.<init>] INFO initializing a logs panel
+2025-03-03T13:24:01.414Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO reloading additional log panels
+2025-03-03T13:24:01.420Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO not in developer mode, skipping
+2025-03-03T13:24:05.062Z [y.aiintellij.ui.panels.AIToolWindowLogPanel.<init>] INFO initializing a logs panel
+2025-03-03T13:24:05.076Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO reloading additional log panels
+2025-03-03T13:24:05.080Z [els.AIToolWindowLogPanel.reloadAdditionalLogPanels] INFO not in developer mode, skipping
+2025-03-03T13:24:25.349Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
+2025-03-03T13:25:29.410Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
+2025-03-03T13:25:34.813Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was started
+2025-03-03T13:25:34.902Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was finished
+2025-03-03T13:25:52.240Z [ices.aie.AieInitializer$initialize$1.invokeSuspend] INFO AIE integration isn't initialized, skipping listeners initialization
+2025-03-03T13:25:54.770Z [sistantNotificationService.onAssistantNotification] INFO TipsAvailabilityChanged notification is received by assistant
+2025-03-03T13:25:54.857Z [sistantNotificationService.onAssistantNotification] INFO QuickFixTipsUpdated notification is received by assistant
+2025-03-03T13:25:56.640Z [sistantNotificationService.onAssistantNotification] INFO TipsAvailabilityChanged notification is received by assistant
+2025-03-03T13:25:56.650Z [sistantNotificationService.onAssistantNotification] INFO QuickFixTipsUpdated notification is received by assistant

@@ -1,0 +1,7 @@
+C:\Users\david\Cloud Projects\PlatformSecurityProject\PlatformSecurityAPI\LoanApi\obj\Debug\net8.0\LoanApi.csproj.AssemblyReference.cache
+C:\Users\david\Cloud Projects\PlatformSecurityProject\PlatformSecurityAPI\LoanApi\obj\Debug\net8.0\LoanApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Cloud Projects\PlatformSecurityProject\PlatformSecurityAPI\LoanApi\obj\Debug\net8.0\LoanApi.AssemblyInfoInputs.cache
+C:\Users\david\Cloud Projects\PlatformSecurityProject\PlatformSecurityAPI\LoanApi\obj\Debug\net8.0\LoanApi.AssemblyInfo.cs
+C:\Users\david\Cloud Projects\PlatformSecurityProject\PlatformSecurityAPI\LoanApi\obj\Debug\net8.0\LoanApi.csproj.CoreCompileInputs.cache
+C:\Users\david\Cloud Projects\PlatformSecurityProject\PlatformSecurityAPI\LoanApi\obj\Debug\net8.0\LoanApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\Cloud Projects\PlatformSecurityProject\PlatformSecurityAPI\LoanApi\obj\Debug\net8.0\LoanApi.MvcApplicationPartsAssemblyInfo.cache

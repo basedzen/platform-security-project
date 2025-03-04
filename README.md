@@ -176,7 +176,7 @@ kubectl get services`
 
 Access the application via the assigned NodePort or Minikube IP.
 
-
+## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
